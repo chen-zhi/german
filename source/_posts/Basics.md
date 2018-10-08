@@ -9,7 +9,14 @@ Mann: man
 Frau: woman
 Junge: boy
 Mädchen: girl
+Kind: child
 
 Ein Mann
 Eine Frau
 Ich bin ein Mann
+
+Brot: bread
+Wasser: water
+Er: he
+Sie: she
+Trinkt: drink
