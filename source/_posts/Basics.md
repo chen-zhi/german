@@ -20,3 +20,5 @@ Wasser: water
 Er: he
 Sie: she
 Trinkt: drink
+
+<img src="https://github.com/chen-zhi/german/blob/master/imgs/pronouns.jpg?raw=true">
