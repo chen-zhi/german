@@ -4,7 +4,7 @@ date: 2018-10-09 10:41:53
 tags: 万门大学
 ---
 
-## Hallo
+##5.1问候 Hallo
 ### Hello
 Guten Morgen! Good morning => Ich Wünsche Ihnen/ dir einen guten Morgen!
 Morgen! Morning
@@ -25,7 +25,7 @@ Auf Wiedersehen!
 Tschüss
 Tschau => from Italian
 
-## Wie geht's?
+##5.2你好吗 Wie geht's?
 ### Formal
 Wie geht es Ihnen?
 Wie gehts's Ihnen?
@@ -47,7 +47,7 @@ Danke schön
 Und Ihnen?
 Und dir?
 
-## Wie heißen Sie?
+##5.3你叫什么 Wie heißen Sie?
 ### Formal
 Wie heißen Sie?
 Ich bin Albert Einstein
@@ -73,8 +73,9 @@ Ja, ich bin / Nein, ich bin nicht.
 Das ist
 Das ist Dirk
 
-## 您的电话号码是多少？
+##5.4 您的电话号码是多少？
 Wie ist Ihre Telefonnummer?
 Wie ist deine Telefonnummer?
 
 Meine Telefonnummer ist...
+
