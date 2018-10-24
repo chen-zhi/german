@@ -59,7 +59,7 @@ Ich bin Monika.
 Mein Name ist Monika
 Ich heiße Monika
 
-Wie ist Dein Name?
+Wie ist dein Name?
 
 ## Are you...?
 ### Formal
